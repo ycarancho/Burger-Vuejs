@@ -1,0 +1,21 @@
+<template>
+    <div class="message-container">
+        <p>{{msg}}</p>
+    </div>
+</template>
+<script setup>
+let props = defineProps({msg:String})
+
+</script>
+
+<style scoped>
+.message-container{
+    color: #004085;
+    background-color: #CCE5FF;
+    border: 2px solid #BBDAFF;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: 400px;
+    margin: 30px auto;
+}
+</style>
