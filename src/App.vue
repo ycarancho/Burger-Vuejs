@@ -19,7 +19,7 @@ const app_name = "Make your Burger"
   box-sizing: border-box;
 }
 .main-container{
-  min-height: 250px;
+  min-height: 500px;
 }
 
 h1{
