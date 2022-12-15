@@ -77,5 +77,21 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": []
+  "burgers": [
+    {
+      "nome": "Dessa",
+      "pao": "Integral",
+      "carne": "Alcatra",
+      "opcionais": [
+        "Cheddar",
+        "Tomate",
+        "Pepino",
+        "Cebola roxa",
+        "Salame",
+        "Bacon"
+      ],
+      "status": "Em produção",
+      "id": 3
+    }
+  ]
 }
